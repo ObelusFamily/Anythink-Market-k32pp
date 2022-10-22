@@ -18,3 +18,5 @@ Once docker-compose finishes loading up, the backend should be running and able 
 After the server is up, make sure you test it by pointing your browser to https://obelusfamily-anythink-market-k32pp-jwv7pxgv9qp3q77x-3000.githubpreview.dev/api/ping
 Now, it’s time to check the frontend and make sure it’s connected to the backend.
 If everything is working properly, you’ll be able to create a new user on https://obelusfamily-anythink-market-k32pp-jwv7pxgv9qp3q77x-3001.githubpreview.dev/register
+
+And you've completed your first setup of now
